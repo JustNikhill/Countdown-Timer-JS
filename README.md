@@ -2,7 +2,7 @@
 This project is  a JavaScript countdown timer. This timer takes a given day and returns the days, hours, minutes, and seconds
 
 ### New Things Learned or Refreshed
-This was preety basic projct so you can refresh your skills 
+This was pretty  basic projct so you can refresh your skills 
 
 ### Developer
 @JustNikhill
